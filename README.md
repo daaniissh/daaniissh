@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Danish</h1>
 <h3 align="center">frontend developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.hackernoon.com/images/f2px36fy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammeddanishpk&label=Profile%20views&color=0e75b6&style=flat" alt="muhammeddanishpk" /> </p>
 
 - 🌱 I’m currently learning **React.js**
@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammeddanishpk&show_icons=true&locale=en&layout=compact" alt="muhammeddanishpk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammeddanishpk&" alt="muhammeddanishpk" /></p>
+
