@@ -15,6 +15,7 @@
 <img align="center" src="https://img.shields.io/badge/-css-1572b6?logo=css3&logoColor=fff">
 <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=fff">
 <img src="https://img.shields.io/badge/-GIT-F05032?logo=git&logoColor=fff">
+<img src="https://img.shields.io/badge/-TAILWIND-informational?logo=tailwindcss&logoColor=9cf"/>
 <img src="https://img.shields.io/badge/-GITHUB-181717?logo=github&logoColor=fff">
 <img src="https://img.shields.io/badge/-BOOSTRAP-7952B3?logo=boostrap&logoColor=fff">
 <img src="https://img.shields.io/badge/-REACT-61DAFB?logo=react&logoColor=fff">
