@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Danish</h1>
-<h3 align="center">frontend developer</h3>
+<h3 align="center">Fullstack developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.hackernoon.com/images/f2px36fy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammeddanishpk&label=Profile%20views&color=0e75b6&style=flat" alt="muhammeddanishpk" /> </p>
