@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Danish</h1>
 <h3 align="center">Fullstack developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.hackernoon.com/images/f2px36fy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammeddanishpk&label=Profile%20views&color=0e75b6&style=flat" alt="muhammeddanishpk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daaniissh&label=Profile%20views&color=0e75b6&style=flat" alt="muhammeddanishpk" /> </p>
+
 - 🌱 I’m currently learning **MERN STACK**
 - 📫 How to reach me **pkdanish329@gmail.com**
 - ⚡ Fun fact **I think I am funny**
+
 <h3 align="left">About me</h3>
 <p><strong>Hello, my name is Muhammed Danish. I'm a student and a passionate advocate of open source. I thoroughly enjoy creating websites that enhance the developer experience. My ambition is to become a skilled web developer.</strong></p>
 <h3 align="left">Connect with me:</h3>
