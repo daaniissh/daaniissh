@@ -14,7 +14,7 @@ I firmly believe that collaboration is the cornerstone to building great things,
 - 🔭 I’m currently working on a web project that aims to provide developers with a
       range of resources and tools to improve their skills. 
       
-- 👨&zwj;💻</g-emoji> Checkout my <a href="https://daaniissh.github.io/danish/" rel="nofollow">Portfolio</a> &nbsp; <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270"><img width="50" src="https://github.com/user-attachments/assets/28b25a2b-7601-4ff1-867c-511e00ed2ef2" data-canonical-src="[https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp](https://github.com/user-attachments/assets/28b25a2b-7601-4ff1-867c-511e00ed2ef2)" style="max-width: 100%;"></a>
+- 👨&zwj;💻</g-emoji> Checkout my <a href="https://danishxd.vercel.app/" rel="nofollow">Portfolio</a> &nbsp; <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270"><img width="50" src="https://github.com/user-attachments/assets/28b25a2b-7601-4ff1-867c-511e00ed2ef2" data-canonical-src="[https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp](https://github.com/user-attachments/assets/28b25a2b-7601-4ff1-867c-511e00ed2ef2)" style="max-width: 100%;"></a>
 
 
 - 💬 Ask me about Web Development 
