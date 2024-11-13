@@ -1,10 +1,10 @@
-## **Hi there! 👋**
+## **Hi there!  <img src="https://github.com/user-attachments/assets/28b25a2b-7601-4ff1-867c-511e00ed2ef2" alt="" height="25"  />**
 
 **I'm Danish.**
 
 **Curious? Here's more about me  [link](https://linktodocumentation) ✨🐾 check it out!**
 
-![cat 90c1d764612f](https://github.com/user-attachments/assets/43601f68-c67f-44b8-beb1-3881d4f0d05d)
+<img src="https://github.com/user-attachments/assets/43601f68-c67f-44b8-beb1-3881d4f0d05d" alt="" height="100"  />
 
 
 **What excites me:** 
@@ -25,5 +25,7 @@
 
 **⚡Fun fact:** I'm a human, not a robot (yet)! 🤖 
 
+
+
 Let's connect! 🔗  
-![cat 90c1d764612f](https://github.com/user-attachments/assets/28b25a2b-7601-4ff1-867c-511e00ed2ef2)
+
