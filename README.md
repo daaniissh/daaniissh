@@ -2,7 +2,7 @@
 
 **I'm Danish.**
 
-**Curious? Here's more about me  [link](https://linktodocumentation) ✨🐾 check it out!**
+**Curious? Here's more about me  [link](https://danishxd.vercel.app/) ✨🐾 check it out!**
 
 <img src="https://github.com/user-attachments/assets/43601f68-c67f-44b8-beb1-3881d4f0d05d" alt="" height="100"  />
 
